@@ -1,5 +1,5 @@
 ---
-blog-page-title: quikad
+blog-page-title: edit
 blog-post:
   - publish-date: 2020-08-23T10:38:23.615Z
     blog-title: sadsada
