@@ -108,12 +108,12 @@ const PortfolioPage: FC<{ data: ProjectGQL }> = ({ data }) => {
     const labelsToDelete: Array<string> = [];
 
     // orderby number of projects
-    const sortedProjectsCollection: ProjectType[][] = Object.entries(groupedProjects)
+    const sortedProjectsCollection = Object.entries(groupedProjects)
       // .map((projectArray) => projectArray.splice(1, 2))
       .map((project) => [project, ...project[1]])
       .sort((currentProjects, nextProjects) => {
         return nextProjects.length - currentProjects.length;
-      });
+      }) as ProjectType[][];
     console.log(sortedProjectsCollection);
     // delete first element-label from array
     sortedProjectsCollection.map((arrayProject) => arrayProject.shift());
