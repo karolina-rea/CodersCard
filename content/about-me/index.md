@@ -1,6 +1,7 @@
 ---
 aboutPageTitle: About me
-aboutPageDescription: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+aboutPageDescription: Donec condimentum neque rhoncus congue volutpat. Maecenas
+  scelerisque varius ornare.
 aboutPageImage: profile.jpg
 description: Lorem **ipsum** dolor sit amet, consectetur adipiscing elit. Fusce
   iaculis ultricies eros, ac iaculis eros maximus nec. Phasellus vitae mi felis.
@@ -8,10 +9,19 @@ description: Lorem **ipsum** dolor sit amet, consectetur adipiscing elit. Fusce
   mattis sapien nec, tristique elit. Suspendisse id sem sit amet mi tempus
   fermentum. Duis non metus nec nisl convallis efficitur. Donec condimentum
   neque rhoncus congue volutpat. Maecenas scelerisque varius ornare. Morbi
-  egestas rutrum mattis. In pulvinar imperdiet tellus vel laoreet. Etiam ac
-  sodales nulla. Nulla sit amet enim ipsum. Nulla pharetra turpis tempus
-  venenatis sollicitudin. Nunc lacinia rhoncus leo, non consectetur velit tempus
-  sed. Praesent euismod nibh ut massa congue, at condimentum justo egestas.
-  Etiam accumsan felis non ipsum vulputate gravida. Etiam elementum vitae nisl a
-  aliquam.
+socialMedia:
+  technologies:
+    - technologyName: HTML
+      technologyValue: 2
+  tools:
+    - toolName: Git
+      toolValue: 5
+  otherSkills:
+    - otherSkillName: playing guitar
+      otherSkillValue: 1
+testimonials:
+  - testimonialText: testimonialText testimonialText
+    testimonialImage: profile.jpg
+    testimonialName: testimonialName
+    testimonialJob: testimonialText
 ---
