@@ -15,7 +15,7 @@ collections:
     public_folder: ""
     path: "{{content}}index"
     editor:
-      preview: false
+      preview: true
     fields:
       - {
           label: "Page Title",

@@ -35,8 +35,13 @@ module.exports = {
         display: `minimal-ui`,
       },
     },
-    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-typescript`,
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      options: {
+        modulePath: `${__dirname}/src/components/Netlify/index.js`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
