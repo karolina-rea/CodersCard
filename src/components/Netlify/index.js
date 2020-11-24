@@ -5,4 +5,4 @@ import CMS from 'netlify-cms-app';
 
 import { BlogPostPreview } from './BlogPostPreview';
 
-CMS.registerPreviewTemplate('blogPage', BlogPostPreview);
+CMS.registerPreviewTemplate('blog', BlogPostPreview);
