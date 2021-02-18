@@ -17,15 +17,17 @@ workExperience:
     companyName: CCIG - Call Center Inter Galactica Wroclaw
     jobDescription: Receiving complaints and comments from customers, handling
       incoming and outgoing hotline
-  - startJobDate: 2017-11-02T20:11:46.025Z
-    finishJobDate: 2018-11-02T20:12:59.850Z
-    jobTitle: Junior front-end developer
-    companyName: Google
-    jobDescription: In tristique vulputate augue vel egestas. Quisque ac imperdiet
-      tortor, at lacinia ex. Duis vel ex hendrerit, commodo odio sed, aliquam
-      enim. Ut arcu nulla, tincidunt eget arcu eget, molestie vulputate nisi.
-      Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna
-      malesuada fringilla.
+  - startJobDate: 2018-10-01T21:15:00.000Z
+    finishJobDate: 2018-12-25T22:15:00.000Z
+    jobDescription: I've driven the company truck on international routes  (Gdynia -
+      Ryga - Talinn - Helsinki), managed and sold company's assortment of
+      products, overlooked its supply,  took care of bookings and managed
+      customer relations, packing the goods, securing, quality control products,
+      warehouse service, taking care of the supply, condition and completeness
+      of the warehouse and commercial goods, maintaining contact with customers,
+      booking accommodation
+    jobTitle: "Exhibitor and driver  "
+    companyName: Maginarium Gdynia
 education:
   - startSchoolDate: 2016-10-01T19:05:00.000Z
     finishSchoolDate: 2021-06-14T22:00:00.000Z
