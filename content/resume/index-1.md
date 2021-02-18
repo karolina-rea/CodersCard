@@ -6,7 +6,7 @@ workExperience:
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-02-18T22:21:27.770Z
     jobTitle: "Candidate internship "
-    companyName: Volunteer Fire Department - Rescue Unit Specialist
+    companyName: Volunteer Fire Department - Rescue Unit Specialist Wrocław
     jobDescription: The first unit in Lower Silesia and at the same time the largest
       unit in south-western Poland that uses rescue dogs to search for people
       missing in the field and in the rubble. The rescue dogs used in rescue
