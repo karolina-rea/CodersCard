@@ -43,14 +43,6 @@ workExperience:
       correspondence, Taking care of orders and office materials, photocopying
       documentation, managing sensitive documents, sending business
       correspondence
-  - startJobDate: 2019-09-01T21:26:00.000Z
-    finishJobDate: 2019-12-01T22:26:00.000Z
-    jobTitle: Assistant to school director
-    jobDescription: Taking care of orders and teaching materials, photocopying
-      documentation and journals, writing out grading sheets, preparing semester
-      and vocational exams, handling the SIO program, taking care of supplies
-      and supporting students, managing sensitive documents
-    companyName: "Cosinus School Wroclaw "
   - startJobDate: 2018-10-01T21:15:00.000Z
     finishJobDate: 2018-12-25T22:15:00.000Z
     jobDescription: I've driven the company truck on international routes  (Gdynia -
@@ -77,6 +69,5 @@ education:
     schoolName: "Post-secondary school of Fine Arts "
     course: "Specialization: photography"
     educationDescription: " A two-year hobby course. I had classes in painting,
-      pencil drawing, art history, graphics and photography. Outdoor trips were
-      organized sporadically."
+      pencil drawing, art history, graphics and photography."
 ---
