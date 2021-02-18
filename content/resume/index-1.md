@@ -5,8 +5,8 @@ resumePageImage:
 workExperience:
   - startJobDate: 2019-11-02T20:06:48.583Z
     finishJobDate: 2020-11-01T20:06:48.592Z
-    jobTitle: Senior front-end developer
-    companyName: Google
+    jobTitle: Customer Support Specialist
+    companyName: CCIG
     jobDescription: In tristique vulputate augue vel egestas. Quisque ac imperdiet tortor, at lacinia ex. Duis vel ex hendrerit, commodo odio sed, aliquam enim. Ut arcu nulla, tincidunt eget arcu eget, molestie vulputate nisi. Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna malesuada fringilla.
   - startJobDate: 2020-02-02T20:09:54.359Z
     finishJobDate: 2020-09-01T19:09:54.371Z
