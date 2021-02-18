@@ -20,21 +20,9 @@ socialMedia:
       technologyValue: 5
     - technologyName: CSS
       technologyValue: 5
-    - technologyName: JavaScript (ES9)
-      technologyValue: 4
-    - technologyName: SASS
-      technologyValue: 3
     - technologyName: React.js
       technologyValue: 5
-    - technologyName: Redux
-      technologyValue: 3
-    - technologyName: Storybook
-      technologyValue: 2
     - technologyName: React Testing Library
-      technologyValue: 2
-    - technologyName: Apollo Client
-      technologyValue: 3
-    - technologyName: Next.js
       technologyValue: 2
   tools:
     - toolName: Git
