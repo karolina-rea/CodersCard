@@ -72,4 +72,11 @@ education:
       relations. I've specifically focused on issues related to online
       marketing, career counselling, and lately communication design, and take
       part in various events both as an organizer and attendee.
+  - startSchoolDate: 2014-09-01T21:31:00.000Z
+    finishSchoolDate: 2016-06-01T21:31:00.000Z
+    schoolName: "Post-secondary school of Fine Arts "
+    course: "Specialization: photography"
+    educationDescription: " A two-year hobby course. I had classes in painting,
+      pencil drawing, art history, graphics and photography. Outdoor trips were
+      organized sporadically."
 ---
