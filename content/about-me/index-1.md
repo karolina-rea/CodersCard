@@ -30,9 +30,9 @@ socialMedia:
       otherSkillValue: 2
     - otherSkillName: Japanese at A2 level
       otherSkillValue: 2
-    - otherSkillName: Basics of DTP
+    - otherSkillName: DTP
       otherSkillValue: 2
-    - otherSkillName: Knowledge of the issues related to e-commerce
+    - otherSkillName: E-commerce
       otherSkillValue: 4
 testimonials: []
 ---
