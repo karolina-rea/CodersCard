@@ -1,7 +1,7 @@
 ---
 aboutPageTitle: null
 aboutPageDescription: null
-aboutPageImage: GabeMcdonalid.png
+aboutPageImage: ""
 description: >-
   My passion for human psyche, gathering knowledge and technology has led me to
   study the first one and pursue the rest in my free time. I am currently
