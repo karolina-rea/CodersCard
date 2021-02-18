@@ -1,7 +1,7 @@
 ---
 aboutPageTitle: null
 aboutPageDescription: null
-aboutPageImage: https://i.imgur.com/PAaQ5Yn.jpeg
+aboutPageImage: 150937120_2876111582670232_4670744937925415384_n.jpg
 description: >-
   My passion for human psyche, gathering knowledge and technology has led me to
   study the first one and pursue the rest in my free time. I am currently
