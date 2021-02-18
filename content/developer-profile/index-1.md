@@ -1,6 +1,6 @@
 ---
-firstName: Jonathan
-lastName: Harwood
+firstName: Karolina
+lastName: Barabasz
 avatar: profile.jpg
 position: Fullstack developer
 phone: "123123123"
@@ -10,7 +10,7 @@ country: Poland
 isFreelancer: true
 cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
 socialMedia:
-  twitter: https://twitter.com/
+  twitter: ""
   github: https://github.com/
   instagram: https://www.instagram.com/
   facebook: https://www.facebook.com/
