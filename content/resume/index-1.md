@@ -27,22 +27,13 @@ workExperience:
       Nunc malesuada leo et est iaculis facilisis. Fusce eu urna ut magna
       malesuada fringilla.
 education:
-  - startSchoolDate: 2020-10-02T20:11:46.025Z
-    finishSchoolDate: 2020-11-02T20:12:59.850Z
-    schoolName: Master Degree, Wroclaw University of Economics
-    course: Finanse and Accounting, sp. Real Estate
-    educationDescription: Maecenas eu lobortis ex. Vivamus ultrices tristique
-      libero, non auctor risus pretium nec. In leo neque, mollis eu volutpat
-      eget, sodales ac lacus. Curabitur et ligula tincidunt, ultrices dui a,
-      malesuada est. Cras blandit dignissim suscipit. Integer semper diam
-      mauris, ac efficitur dui hendrerit eget.
-  - startSchoolDate: 2017-10-01T19:05:57.745Z
-    finishSchoolDate: 2020-06-14T22:00:00.000Z
-    schoolName: Bachelor Degree Warsaw School of Economics
-    course: Managment, sp. Project Managment
-    educationDescription: Maecenas eu lobortis ex. Vivamus ultrices tristique
-      libero, non auctor risus pretium nec. In leo neque, mollis eu volutpat
-      eget, sodales ac lacus. Curabitur et ligula tincidunt, ultrices dui a,
-      malesuada est. Cras blandit dignissim suscipit. Integer semper diam
-      mauris, ac efficitur dui hendrerit eget.
+  - startSchoolDate: 2016-10-01T19:05:00.000Z
+    finishSchoolDate: 2021-06-14T22:00:00.000Z
+    schoolName: SWPS University of Social Sciences and Humanities
+    course: "Clinical and Business Psychology "
+    educationDescription: Full-time studies centered around the psychological
+      aspects of motivation, emotions, health, as well as business and social
+      relations. I've specifically focused on issues related to online
+      marketing, career counselling, and lately communication design, and take
+      part in various events both as an organizer and attendee.
 ---
