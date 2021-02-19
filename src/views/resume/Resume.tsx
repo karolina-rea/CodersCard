@@ -47,6 +47,24 @@ export const Resume = () => {
             </Box>
           ))}
         </Box>
+
+        <SectionTitle className={classes.title}>Work Experience</SectionTitle>
+        <Box className={classes.project}>
+          {data.other.map((item) => (
+            <Box key={`${item.companyName}-${item.jobTitle}`}>
+              <Divider className={classes.divider} orientation="vertical" />
+              <ResumeItem
+                isMobile={isMobile}
+                labelText={formatLabelText(item.startJobDate, item.finishJobDate)}
+                headerText={item.jobTitle}
+                title={item.companyName}
+                description={item.jobDescription}
+              />
+              <Divider className={classes.divider} orientation="vertical" />
+            </Box>
+          ))}
+        </Box>
+        
         <SectionTitle className={classes.title}>Education</SectionTitle>
         {data.education.map((item) => (
           <Box key={`${item.schoolName}-${item.educationDescription}`}>

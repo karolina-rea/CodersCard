@@ -87,6 +87,15 @@ workExperience:
       aid, securing the festival area, organization of events, taking care of
       the condition of technical supplies and taking care of food for festival
       participants and organizers
+other:
+  - startJobDate: 2019-12-01T13:15:00.000Z
+    finishJobDate: 2019-02-19T13:15:00.000Z
+    jobTitle: Volunteer
+    companyName: '"National Fire and Juggling Festival" Ostróda'
+    jobDescription: Providing information to festival participants, providing first
+      aid, securing the festival area, organization of events, taking care of
+      the condition of technical supplies and taking care of food for festival
+      participants and organizers
 education:
   - startSchoolDate: 2016-10-01T19:05:00.000Z
     finishSchoolDate: 2021-06-14T22:00:00.000Z

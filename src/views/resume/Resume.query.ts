@@ -23,6 +23,7 @@ type ResumeData = {
     publicURL?: string;
   };
   workExperience: WorkExperience[];
+  other: Education[],
   education: Education[];
 };
 
@@ -43,6 +44,13 @@ export const useResumeQuery = () => {
             publicURL
           }
           workExperience {
+            startJobDate
+            finishJobDate
+            jobTitle
+            companyName
+            jobDescription
+          }
+          other {
             startJobDate
             finishJobDate
             jobTitle
