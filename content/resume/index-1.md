@@ -3,6 +3,11 @@ resumePageTitle: null
 resumePageDescription: null
 resumePageImage: null
 workExperience:
+  - startJobDate: 2021-02-01T13:34:00.000Z
+    finishJobDate: 2021-02-19T14:06:03.489Z
+    companyName: '"Salida" Foundation'
+    jobTitle: Volunteer
+    jobDescription: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-02-18T22:21:27.770Z
     jobTitle: "Candidate internship "
@@ -54,6 +59,34 @@ workExperience:
       booking accommodation
     jobTitle: "Exhibitor and driver  "
     companyName: Maginarium Gdynia
+  - startJobDate: 2021-01-01T13:10:00.000Z
+    finishJobDate: 2021-02-19T13:14:40.486Z
+    jobTitle: Volunteer
+    companyName: '"Sapere Aude" Foundation'
+    jobDescription: "Managing communication in teams, writing articles for the
+      foundation's blog and facebook, moderating discussions on the fanpage and
+      in Facebook groups, promoting the activities of the foundation, carrying
+      out and preparing foundation reports, creating entries on the foundation's
+      website, organizing workshop meetings, preparation of graphics for the
+      website, preparation and implementation of projects / grants for the
+      organization, implementation think tanks, participation in training, e.g.
+      on speaking in front of the camera. Link:
+      https://www.facebook.com/FundacjaSapereAude https://sapere-aude.org.pl/"
+  - startJobDate: 2020-07-01T12:14:00.000Z
+    finishJobDate: 2020-12-01T13:14:00.000Z
+    jobTitle: Volunteer
+    companyName: '"Europeum" Foundation - "Montessori House" Kindergarten Wroclaw'
+    jobDescription: Teacher's assistant, organization of work schedule, trainings,
+      workshops, events, duties related to HR, in-company communication and
+      local promotion
+  - startJobDate: 2019-12-01T13:15:00.000Z
+    finishJobDate: 2019-02-19T13:15:00.000Z
+    jobTitle: Volunteer
+    companyName: '"National Fire and Juggling Festival" Ostróda'
+    jobDescription: Providing information to festival participants, providing first
+      aid, securing the festival area, organization of events, taking care of
+      the condition of technical supplies and taking care of food for festival
+      participants and organizers
 education:
   - startSchoolDate: 2016-10-01T19:05:00.000Z
     finishSchoolDate: 2021-06-14T22:00:00.000Z
