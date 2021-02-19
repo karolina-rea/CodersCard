@@ -48,7 +48,7 @@ export const Resume = () => {
           ))}
         </Box>
 
-        <SectionTitle className={classes.title}>Work Experience</SectionTitle>
+        <SectionTitle className={classes.title}>Other activities</SectionTitle>
         <Box className={classes.project}>
           {data.other.map((item) => (
             <Box key={`${item.companyName}-${item.jobTitle}`}>
