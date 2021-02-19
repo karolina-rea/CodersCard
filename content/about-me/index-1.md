@@ -16,7 +16,13 @@ description: >-
   I am a very cheerful, social, ambitious, and active person, who likes to travel, meet different people, act for the benefit of society and learn new skills.
 socialMedia:
   technologies: []
-  tools: []
+  tools:
+    - toolName: Jira
+      toolValue: 2
+    - toolName: Photoshop
+      toolValue: 4
+    - toolName: Ilustrator
+      toolValue: 5
   otherSkills:
     - otherSkillName: Driving license. B
       otherSkillValue: 5
