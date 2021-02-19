@@ -34,5 +34,7 @@ socialMedia:
       otherSkillValue: 2
     - otherSkillName: E-commerce
       otherSkillValue: 4
+    - otherSkillName: UI and UX design
+      otherSkillValue: 4
 testimonials: []
 ---
