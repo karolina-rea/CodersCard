@@ -34,6 +34,8 @@ socialMedia:
       otherSkillValue: 5
     - otherSkillName: Team work
       otherSkillValue: 5
+    - otherSkillName: Business psychology
+      otherSkillValue: 5
     - otherSkillName: Team management
       otherSkillValue: 5
     - otherSkillName: Accounting
@@ -43,6 +45,8 @@ socialMedia:
     - otherSkillName: HR
       otherSkillValue: 4
     - otherSkillName: Driving license. B
+      otherSkillValue: 5
+    - otherSkillName: Clinical psychology
       otherSkillValue: 5
     - otherSkillName: American Heart Certificate Association
       otherSkillValue: 5
