@@ -50,17 +50,17 @@ socialMedia:
       otherSkillValue: 2
     - otherSkillName: DTP
       otherSkillValue: 2
-    - otherSkillName: E-commerce
-      otherSkillValue: 4
     - otherSkillName: UI and UX design
       otherSkillValue: 4
     - otherSkillName: Scrum
-      otherSkillValue: 3
+      otherSkillValue: 4
+    - otherSkillName: Customer Service
+      otherSkillValue: 5
+    - otherSkillName: E-commerce
+      otherSkillValue: 5
     - otherSkillName: Marketing
       otherSkillValue: 5
     - otherSkillName: Organization/administration
-      otherSkillValue: 5
-    - otherSkillName: Customer Service
       otherSkillValue: 5
 testimonials: []
 ---
