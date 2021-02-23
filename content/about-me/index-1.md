@@ -17,12 +17,18 @@ description: >-
 socialMedia:
   technologies: []
   tools:
-    - toolName: Jira
-      toolValue: 2
     - toolName: Photoshop
       toolValue: 4
     - toolName: Ilustrator
       toolValue: 5
+    - toolName: Microsoft Office
+      toolValue: 5
+    - toolName: Adobe XD
+      toolValue: 5
+    - toolName: Figma
+      toolValue: 4
+    - toolName: Jira
+      toolValue: 2
   otherSkills:
     - otherSkillName: Soft skills
       otherSkillValue: 5
