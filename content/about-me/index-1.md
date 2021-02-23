@@ -28,7 +28,7 @@ socialMedia:
       otherSkillValue: 5
     - otherSkillName: Team work
       otherSkillValue: 5
-    - otherSkillName: Team management/Leadership
+    - otherSkillName: Team management
       otherSkillValue: 5
     - otherSkillName: Accounting
       otherSkillValue: 5
