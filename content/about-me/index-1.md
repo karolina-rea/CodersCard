@@ -24,6 +24,18 @@ socialMedia:
     - toolName: Ilustrator
       toolValue: 5
   otherSkills:
+    - otherSkillName: Soft skills
+      otherSkillValue: 5
+    - otherSkillName: Team work
+      otherSkillValue: 5
+    - otherSkillName: Team management
+      otherSkillValue: 5
+    - otherSkillName: Accounting
+      otherSkillValue: 5
+    - otherSkillName: Problem solving
+      otherSkillValue: 5
+    - otherSkillName: HR
+      otherSkillValue: 4
     - otherSkillName: Driving license. B
       otherSkillValue: 5
     - otherSkillName: American Heart Certificate Association
@@ -42,5 +54,13 @@ socialMedia:
       otherSkillValue: 4
     - otherSkillName: UI and UX design
       otherSkillValue: 4
+    - otherSkillName: Scrum
+      otherSkillValue: 3
+    - otherSkillName: Marketing
+      otherSkillValue: 5
+    - otherSkillName: Organization/administration
+      otherSkillValue: 5
+    - otherSkillName: Customer Service
+      otherSkillValue: 5
 testimonials: []
 ---
