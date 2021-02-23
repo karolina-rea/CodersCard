@@ -2,7 +2,7 @@
 firstName: Karolina
 lastName: Barabasz
 avatar: profile.jpg
-position: Social Media Manager
+position: "                                 "
 phone: +48 669 981 288
 email: kbarabasz95@gmail.com
 city: Wroclaw
