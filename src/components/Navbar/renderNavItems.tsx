@@ -23,21 +23,21 @@ const navItems: NavItemConfig[] = [
     icon: FileText,
     label: 'Resume',
   },
-  {
-    to: '/portfolio',
-    icon: Folder,
-    label: 'Portfolio',
-  },
-  {
-    to: '/blog',
-    icon: Type,
-    label: 'Blog',
-  },
-  {
-    to: '/contact',
-    icon: MessageCircle,
-    label: 'Contact',
-  },
+  // {
+  //   to: '/portfolio',
+  //   icon: Folder,
+  //   label: 'Portfolio',
+  // },
+  // {
+  //   to: '/blog',
+  //   icon: Type,
+  //   label: 'Blog',
+  // },
+  // {
+  //   to: '/contact',
+  //   icon: MessageCircle,
+  //   label: 'Contact',
+  // },
 ];
 
 export const renderNavItems = (onClick: NavItemProps['onClick'] = () => {}, withoutBlogPage?: boolean) =>

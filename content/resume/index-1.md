@@ -3,14 +3,6 @@ resumePageTitle: null
 resumePageDescription: null
 resumePageImage: null
 workExperience:
-  - startJobDate: 2021-02-01T13:34:00.000Z
-    finishJobDate: 2021-02-23T22:02:21.767Z
-    companyName: '"Salida" Foundation'
-    jobTitle: Volunteer
-    jobDescription: " Streetworking - reaching with help directly to people at risk
-      of drug addiction, therapeutic work with addicted, obtaining official
-      funds for the development of the foundation, promotion of the foundation
-      in other aid centers and in the media"
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-02-18T22:21:27.770Z
     jobTitle: "Candidate internship "
@@ -62,6 +54,15 @@ workExperience:
       booking accommodation
     jobTitle: "Exhibitor and driver  "
     companyName: Maginarium Gdynia
+other:
+  - startJobDate: 2021-02-01T13:34:00.000Z
+    finishJobDate: 2021-02-23T22:02:21.767Z
+    companyName: '"Salida" Foundation'
+    jobTitle: Volunteer
+    jobDescription: " Streetworking - reaching with help directly to people at risk
+      of drug addiction, therapeutic work with addicted, obtaining official
+      funds for the development of the foundation, promotion of the foundation
+      in other aid centers and in the media"
   - startJobDate: 2021-01-01T13:10:00.000Z
     finishJobDate: 2021-02-19T13:14:40.486Z
     jobTitle: Volunteer
@@ -82,15 +83,6 @@ workExperience:
     jobDescription: Teacher's assistant, organization of work schedule, trainings,
       workshops, events, duties related to HR, in-company communication and
       local promotion
-  - startJobDate: 2019-12-01T13:15:00.000Z
-    finishJobDate: 2019-02-19T13:15:00.000Z
-    jobTitle: Volunteer
-    companyName: '"National Fire and Juggling Festival" Ostróda'
-    jobDescription: Providing information to festival participants, providing first
-      aid, securing the festival area, organization of events, taking care of
-      the condition of technical supplies and taking care of food for festival
-      participants and organizers
-other:
   - startJobDate: 2019-12-01T13:15:00.000Z
     finishJobDate: 2019-02-19T13:15:00.000Z
     jobTitle: Volunteer
