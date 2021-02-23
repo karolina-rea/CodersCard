@@ -8,7 +8,7 @@ email: kbarabasz95@gmail.com
 city: Wroclaw
 country: Poland
 isFreelancer: true
-cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
+cv: https://drive.google.com/uc?export=download&id=1pS2Z0T6CZRwdzAFDz_ozHXs8VPcHdDmv
 socialMedia:
   twitter: ""
   github: ""
