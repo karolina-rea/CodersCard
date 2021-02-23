@@ -8,9 +8,9 @@ workExperience:
     companyName: '"Salida" Foundation'
     jobTitle: Volunteer
     jobDescription: " Streetworking - reaching with help directly to people at risk
-      of addiction, therapeutic work with addicted, obtaining official funds for
-      the development of the foundation, promotion of the foundation in other
-      aid centers and in the media"
+      of drug addiction, therapeutic work with addicted, obtaining official
+      funds for the development of the foundation, promotion of the foundation
+      in other aid centers and in the media"
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-02-18T22:21:27.770Z
     jobTitle: "Candidate internship "
