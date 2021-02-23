@@ -4,10 +4,13 @@ resumePageDescription: null
 resumePageImage: null
 workExperience:
   - startJobDate: 2021-02-01T13:34:00.000Z
-    finishJobDate: 2021-02-19T14:06:03.489Z
+    finishJobDate: 2021-02-23T22:02:21.767Z
     companyName: '"Salida" Foundation'
     jobTitle: Volunteer
-    jobDescription: mmmmmmmmnnnnnnnhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyhhh
+    jobDescription: " Streetworking - reaching with help directly to people at risk
+      of addiction, therapeutic work with addicted, obtaining official funds for
+      the development of the foundation, promotion of the foundation in other
+      aid centers and in the media"
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-02-18T22:21:27.770Z
     jobTitle: "Candidate internship "
