@@ -1,6 +1,6 @@
 ---
-aboutPageTitle: null
-aboutPageDescription: null
+aboutPageTitle: Karolina Barabasz
+aboutPageDescription: ""
 aboutPageImage: ""
 description: >-
   My passion for human psyche, gathering knowledge and technology has led me to
