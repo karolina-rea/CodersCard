@@ -58,12 +58,6 @@ socialMedia:
       otherSkillValue: 2
     - otherSkillName: Japanese at A2 level
       otherSkillValue: 2
-    - otherSkillName: DTP
-      otherSkillValue: 2
-    - otherSkillName: UI and UX design
-      otherSkillValue: 4
-    - otherSkillName: Scrum
-      otherSkillValue: 4
     - otherSkillName: Customer Service
       otherSkillValue: 5
     - otherSkillName: E-commerce
@@ -72,5 +66,11 @@ socialMedia:
       otherSkillValue: 5
     - otherSkillName: Organization/administration
       otherSkillValue: 5
+    - otherSkillName: UI and UX design
+      otherSkillValue: 4
+    - otherSkillName: DTP
+      otherSkillValue: 2
+    - otherSkillName: Scrum
+      otherSkillValue: 4
 testimonials: []
 ---
