@@ -191,7 +191,7 @@ export const DetailsCardDesktop = ({
                   variant="contained"
                   startIcon={<Download size={16} />}
                 >
-                  Download CV
+                  Polish CV
                 </Button>
               </Box>
             )}

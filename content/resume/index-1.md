@@ -75,8 +75,8 @@ other:
     finishJobDate: 2021-03-12T22:02:21.767Z
     companyName: '"Salida" Foundation'
     jobTitle: Volunteer
-    jobDescription: The foundation's activity is to support people addicted to psychoactive substances, people at risk of exclusion, foreigners, and people experiencing violence. 
-    of drug addiction. My duties include streetworking (reaching with help directly to people at risk), running a drop-in after-school club, supporting a therapeutic day-room, therapeutic work with addicted, searching for jobs for people at risk of exclusion, taking care of the CV and recruitment process to increase the chances of success obtaining official funds and sponsors for the development of the foundation, promotion of the foundation in other aid centers and in the media, developing visual marketing, printing posters
+    jobDescription: "The foundation's activity is to support people addicted to psychoactive substances, people at risk of exclusion, foreigners, and people experiencing violence. 
+    of drug addiction. My duties include streetworking (reaching with help directly to people at risk), running a drop-in after-school club, supporting a therapeutic day-room, therapeutic work with addicted, searching for jobs for people at risk of exclusion, taking care of the CV and recruitment process to increase the chances of success obtaining official funds and sponsors for the development of the foundation, promotion of the foundation in other aid centers and in the media, developing visual marketing, printing posters"
 
   - startJobDate: 2021-01-01T13:10:00.000Z
     finishJobDate: 2021-03-12T13:14:40.486Z
@@ -112,7 +112,7 @@ other:
   - startJobDate: 2018-05-01T13:15:00.000Z
     finishJobDate: 2019-08-19T13:15:00.000Z
     jobTitle: Volunteer
-    companyName: ''"OldTown Festival" Stargard' 
+    companyName: '"OldTown Festival" Stargard' 
     jobDescription: Stage design department - coordinating orders, creating scenographic elements, team building, taking care of visual details, taking care of the marketing image of the event
 education:
   - startSchoolDate: 2016-10-01T19:05:00.000Z

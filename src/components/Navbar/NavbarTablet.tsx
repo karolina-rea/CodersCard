@@ -55,7 +55,7 @@ export const NavbarTablet = ({
         </Box>
         {resumeLink && (
           <Button size="small" variant="contained" color="primary" href={resumeLink} startIcon={<Download size={16} />}>
-            Download CV
+            Polish CV
           </Button>
         )}
       </Box>

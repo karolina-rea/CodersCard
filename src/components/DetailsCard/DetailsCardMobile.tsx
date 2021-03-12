@@ -158,7 +158,7 @@ export const DetailsCardMobile = ({
                 variant="contained"
                 startIcon={<Download size={16} />}
               >
-                Download CV
+                Polish CV
               </Button>
             </Box>
           )}
