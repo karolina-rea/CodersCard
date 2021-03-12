@@ -14,9 +14,9 @@ workExperience:
     companyName: Volunteer Fire Department - Rescue Unit Specialist Wrocław
     jobDescription: The first unit in Lower Silesia and at the same time the largest
       unit in south-western Poland that uses rescue dogs to search for people
-      missing in the field and in the rubble. The rescue dogs used in rescue
+      missing in the field and in the rubble. The dogs used in rescue
       operations are certified by the State Fire Service. Training in the field
-      of medical rescue and high altitude rescue. Rescuers regularly take part
+      of medical and high altitude rescue. Rescuers regularly take part
       in exercises, workshops, maneuvers and trainings, including international
       ones.
   - startJobDate: 2020-07-01T21:27:00.000Z
