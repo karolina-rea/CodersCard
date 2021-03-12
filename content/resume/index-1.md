@@ -59,7 +59,7 @@ workExperience:
     jobTitle: "Exhibitor and driver  "
     companyName: Maginarium Gdynia
 other:
-    - startJobDate: 2013-11-01T13:15:00.000Z
+  - startJobDate: 2013-11-01T13:15:00.000Z
     finishJobDate: 2021-03-12T13:15:00.000Z
     jobTitle: Volunteer
     companyName: 'Great Orchestra of Christmas Charity'
@@ -99,7 +99,7 @@ other:
     jobDescription: Teacher's assistant, organization of work schedule, trainings,
       workshops, events, duties related to HR, in-company communication and
       local promotion
-    startJobDate: 2020-01-01T13:15:00.000Z
+  - startJobDate: 2020-01-01T13:15:00.000Z
     finishJobDate: 2019-01-03T13:15:00.000Z
     jobTitle: Participant
     companyName: '"Rails Girls Wrocław"'
@@ -112,12 +112,12 @@ other:
       aid, securing the festival area, organization of events, taking care of
       the condition of technical supplies and taking care of food for festival
       participants and organizers
-    - startJobDate: 2019-05-01T13:15:00.000Z
+  - startJobDate: 2019-05-01T13:15:00.000Z
     finishJobDate: 2019-05-11T13:15:00.000Z
     jobTitle: Volunteer
     companyName: '"Pyrkon Festiwal" Poznań'
     jobDescription: Providing information to festival participants, communication between teams, providing first aid, securing the festival area, organizing lectures, meetings with authors of books, comics, actors, scientists
-    - startJobDate: 2018-05-01T13:15:00.000Z
+  - startJobDate: 2018-05-01T13:15:00.000Z
     finishJobDate: 2019-08-19T13:15:00.000Z
     jobTitle: Volunteer
     companyName: ''"OldTown Festival" Stargard' 
