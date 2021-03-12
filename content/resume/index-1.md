@@ -80,18 +80,18 @@ other:
     companyName: '"Salida" Foundation'
     jobTitle: Volunteer
     jobDescription: The foundation's activity is to support people addicted to psychoactive substances, people at risk of exclusion, foreigners, and people experiencing violence. 
-      of drug addiction. My duties include streetworking (reaching with help directly to people at risk), running a drop-in after-school club, supporting a therapeutic day-room, therapeutic work with addicted, searching for jobs for people at risk of exclusion, taking care of the CV and recruitment process to increase the chances of success obtaining official funds and sponsors for the development of the foundation, promotion of the foundation in other aid centers and in the media, developing visual marketing, printing posters
-      Link:
-      http://fundacjasalida.pl/
+    of drug addiction. My duties include streetworking (reaching with help directly to people at risk), running a drop-in after-school club, supporting a therapeutic day-room, therapeutic work with addicted, searching for jobs for people at risk of exclusion, taking care of the CV and recruitment process to increase the chances of success obtaining official funds and sponsors for the development of the foundation, promotion of the foundation in other aid centers and in the media, developing visual marketing, printing posters
+    Link:
+    http://fundacjasalida.pl/
 
   - startJobDate: 2021-01-01T13:10:00.000Z
     finishJobDate: 2021-03-12T13:14:40.486Z
     jobTitle: Volunteer
     companyName: '"Sapere Aude" Foundation'
-    jobDescription: "Managing communication in teams, writing articles for the foundation's blog and facebook, moderating discussions on the fanpage and Facebook groups, promoting the foundation's activities, conducting and developing foundation reports, creating entries for the foundation's website, organizing workshop meetings, preparing graphics for the website, preparing and implementation of projects / grants for organizations, obtaining government and EU funds, acquiring sponsors, implementing think tanks, participating in training, e.g. in front of the camera, organization of conferences, communication with press spokesmen, the ministry of health, ministers for youth policy and project coordination and conferences. 
-      Link:
-      https://www.facebook.com/FundacjaSapereAude 
-      https://sapere-aude.org.pl/"
+    jobDescription: Managing communication in teams, writing articles for the foundation's blog and facebook, moderating discussions on the fanpage and Facebook groups, promoting the foundation's activities, conducting and developing foundation reports, creating entries for the foundation's website, organizing workshop meetings, preparing graphics for the website, preparing and implementation of projects / grants for organizations, obtaining government and EU funds, acquiring sponsors, implementing think tanks, participating in training, e.g. in front of the camera, organization of conferences, communication with press spokesmen, the ministry of health, ministers for youth policy and project coordination and conferences. 
+    Link:
+    https://www.facebook.com/FundacjaSapereAude 
+    https://sapere-aude.org.pl/"
   - startJobDate: 2020-07-01T12:14:00.000Z
     finishJobDate: 2020-12-01T13:14:00.000Z
     jobTitle: Volunteer
