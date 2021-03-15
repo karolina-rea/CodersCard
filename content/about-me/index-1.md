@@ -54,7 +54,7 @@ socialMedia:
       otherSkillValue: 4
     - otherSkillName: Native Polish
       otherSkillValue: 5
-    - otherSkillName: Finnish at A2 level
+    - otherSkillName: Finnish at B1 level
       otherSkillValue: 2
     - otherSkillName: Japanese at A2 level
       otherSkillValue: 2
