@@ -8,7 +8,7 @@ email: barabasz.karolina@wp.pl
 city: Wroclaw
 country: Poland
 isFreelancer: true
-cv: https://drive.google.com/uc?export=download&id=14bTcGGcWBcJ_ye8ZkCSVNJJj5zLwq3D7
+cv: https://drive.google.com/file/d/14bTcGGcWBcJ_ye8ZkCSVNJJj5zLwq3D7/view?usp=sharing
 socialMedia:
   twitter: ""
   github: ""
