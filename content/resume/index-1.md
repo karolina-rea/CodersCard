@@ -71,20 +71,20 @@ other:
     jobDescription: Creating events, marathons, the finals of the GOCC, raising funds for the healthcare system, providing information to event participants, providing first aid, securing the festival area, organizing events, taking care of the technical supply, organizing meals for volunteers, taking care of marqueeing, caring for new volunteers, coordinating orders
 
   - startJobDate: 2021-02-01T13:34:00.000Z
-    finishJobDate: 2021-03-12T22:02:21.767Z
+    finishJobDate: 2021-06-29T22:21:27.770Z
     companyName: '"Podaj Dalej" '
     jobTitle: Volunteer
     jobDescription: Searching for sponsors, writing grant applications, expanding the foundation's marketing activities, building a website - improving the UX and UI of the website, building an online store, developing graphics, photography, developing a marketing campaign, taking care of the YouTube channel and other channels in social media, searching for tools to improve children's room designs, expand the scope of assistance, search for developers, preparation of cost estimates and documentation, securing and transporting technical materials, supervising social and construction workers, helping with the organization of the deed Forward, organizing activities for families and children, maintaining lasting relationships in the foundation - building a community of people who were helped, integration, organizing meetings
 
   - startJobDate: 2021-02-01T13:34:00.000Z
-    finishJobDate: 2021-03-12T22:02:21.767Z
+    finishJobDate: 2021-06-29T22:21:27.770Z
     companyName: '"Salida" Foundation'
     jobTitle: Volunteer
     jobDescription: "The foundation's activity is to support people addicted to psychoactive substances, people at risk of exclusion, foreigners, and people experiencing violence. 
     of drug addiction. My duties include streetworking (reaching with help directly to people at risk), running a drop-in after-school club, supporting a therapeutic day-room, therapeutic work with addicted, searching for jobs for people at risk of exclusion, taking care of the CV and recruitment process to increase the chances of success obtaining official funds and sponsors for the development of the foundation, promotion of the foundation in other aid centers and in the media, developing visual marketing, printing posters"
 
   - startJobDate: 2021-01-01T13:10:00.000Z
-    finishJobDate: 2021-03-12T13:14:40.486Z
+    finishJobDate: 2021-06-29T22:21:27.770Z
     jobTitle: Volunteer
     companyName: '"Sapere Aude" Foundation'
     jobDescription: Managing communication in teams, writing articles for the foundation's blog and facebook, moderating discussions on the fanpage and Facebook groups, promoting the foundation's activities, conducting and developing foundation reports, creating entries for the foundation's website, organizing workshop meetings, preparing graphics for the website, preparing and implementation of projects / grants for organizations, obtaining government and EU funds, acquiring sponsors, implementing think tanks, participating in training, e.g. in front of the camera, organization of conferences, communication with press spokesmen, the ministry of health, ministers for youth policy and project coordination and conferences. 
