@@ -8,14 +8,11 @@ workExperience:
     jobTitle: "Social Media Manager"
     companyName: Ultimate Games Warszawa 
     jobDescription: Developing a communication strategy for various social channels, creating and publishing content, including the content of posts, graphics, videos, live content, analyzing statistics and reporting the results of activities, website optimization, building SEO.
-  - startJobDate: 2021-02-01T22:17:00.000Z
-    finishJobDate: 2021-06-29T22:21:27.770Z
-    startJobDate: 2020-12-01T22:17:00.000Z
+  - startJobDate: 2020-12-01T22:17:00.000Z
     finishJobDate: 2021-06-29T22:21:27.770Z
     jobTitle: "Office Manager"
-    companyName: "Sesame" Accounting office Mirkow
-    jobDescription: Administration of documentation, sending business correspondence, supplying the office with articles and materials
-office, preparing settlements and organizing documentation, organizing meetings.
+    companyName: "Sezame Accounting Office"
+    jobDescription: Administration of documentation, sending business correspondence, supplying the office with articles and materials office, preparing settlements and organizing documentation, organizing meetings
   - startJobDate: 2021-02-01T22:17:00.000Z
     finishJobDate: 2021-06-29T22:21:27.770Z
     jobTitle: "Candidate internship "
