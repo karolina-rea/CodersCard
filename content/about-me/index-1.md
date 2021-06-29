@@ -42,8 +42,6 @@ socialMedia:
       otherSkillValue: 5
     - otherSkillName: Problem solving
       otherSkillValue: 5
-    - otherSkillName: HR
-      otherSkillValue: 4
     - otherSkillName: Driving license. B
       otherSkillValue: 5
     - otherSkillName: Clinical psychology
@@ -54,7 +52,7 @@ socialMedia:
       otherSkillValue: 4
     - otherSkillName: Native Polish
       otherSkillValue: 5
-    - otherSkillName: Finnish at B1 level
+    - otherSkillName: Finnish at A2 level
       otherSkillValue: 2
     - otherSkillName: Japanese at A2 level
       otherSkillValue: 2
@@ -67,10 +65,10 @@ socialMedia:
     - otherSkillName: Organization/administration
       otherSkillValue: 5
     - otherSkillName: UI and UX design
-      otherSkillValue: 4
+      otherSkillValue: 3
     - otherSkillName: DTP
       otherSkillValue: 2
     - otherSkillName: Scrum
-      otherSkillValue: 4
+      otherSkillValue: 3
 testimonials: []
 ---
