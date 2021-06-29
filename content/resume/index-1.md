@@ -65,7 +65,7 @@ workExperience:
     companyName: Maginarium Gdynia
 other:
   - startJobDate: 2013-11-01T13:15:00.000Z
-    finishJobDate: 2021-03-12T13:15:00.000Z
+    finishJobDate: 2021-06-29T22:21:27.770Z
     jobTitle: Volunteer
     companyName: 'Great Orchestra of Christmas Charity'
     jobDescription: Creating events, marathons, the finals of the GOCC, raising funds for the healthcare system, providing information to event participants, providing first aid, securing the festival area, organizing events, taking care of the technical supply, organizing meals for volunteers, taking care of marqueeing, caring for new volunteers, coordinating orders
